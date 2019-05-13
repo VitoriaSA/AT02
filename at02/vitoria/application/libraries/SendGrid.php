@@ -14,7 +14,7 @@
         public function envia($v){
 
             $headers = array(
-                'Authorization: Bearer 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',
+                'Authorization: Bearer Insert Your API Key',
                 'Content-Type: application/json'
             );
     
